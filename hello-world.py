@@ -1,1 +1,1 @@
-print("Hello World for Jenkins Job mr.mutluresul last")
+print("Hello World for Jenkins Job")
